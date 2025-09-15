@@ -1,0 +1,3 @@
+- [x] Github Learning
+- [x] Not getting distracted
+- [ ] Review the tour itenary
