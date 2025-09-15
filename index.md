@@ -1,3 +1,3 @@
-``` C#
-Console.WritLine("Hello Thozhare")
-```
+- [x] Github Learning
+- [x] Not getting distracted
+- [ ] Review the tour itenary
